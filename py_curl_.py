@@ -35,7 +35,8 @@ def menu():
     elif option=='6':
         custom()
     elif option=='7':
-        link_brute()
+        #link_brute()
+        pass
     elif option=='8':
         quit()
     else:
